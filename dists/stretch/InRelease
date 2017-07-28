@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: stretch
+Date: Fri, 28 Jul 2017 00:20:13 UTC
+Architectures: i386 armhf
+Components: main
+Description: Nikeron soft repository
+MD5Sum:
+ 26de10774b660ecb9708675651147df5 407 main/binary-i386/Packages
+ 4baed8d2d3bb7f2017ef0538df5c1620 311 main/binary-i386/Packages.gz
+ 3107bb8525ad3b6cd0b43fca9bb66a3c 72 main/binary-i386/Release
+ 26de10774b660ecb9708675651147df5 407 main/binary-armhf/Packages
+ 4baed8d2d3bb7f2017ef0538df5c1620 311 main/binary-armhf/Packages.gz
+ e188363f3eca3d70de8f288472d3b05f 73 main/binary-armhf/Release
+SHA1:
+ e062cbdced19e71e5a979ebad96e9ac92e657ef0 407 main/binary-i386/Packages
+ 51abe499aeff1901293fd62457d4798c8550c2c1 311 main/binary-i386/Packages.gz
+ 75e2b53696b4b7593fc342183a0d71ab9255220a 72 main/binary-i386/Release
+ e062cbdced19e71e5a979ebad96e9ac92e657ef0 407 main/binary-armhf/Packages
+ 51abe499aeff1901293fd62457d4798c8550c2c1 311 main/binary-armhf/Packages.gz
+ f704b5ed3341e4eed8a6126db28886019dcc69e4 73 main/binary-armhf/Release
+SHA256:
+ ebac38c19b949f9b639e3505985884c1650cff66f1a18b3a6f30489e5176feb8 407 main/binary-i386/Packages
+ 287be9e59173b8012bb1b0cdcc92fcaf1a303e0349745ddfb8ca4a612afdf68f 311 main/binary-i386/Packages.gz
+ 7469cad60287c36e18332f992ff4101891c8f0c757bb401b21e82cd13bf6a99c 72 main/binary-i386/Release
+ ebac38c19b949f9b639e3505985884c1650cff66f1a18b3a6f30489e5176feb8 407 main/binary-armhf/Packages
+ 287be9e59173b8012bb1b0cdcc92fcaf1a303e0349745ddfb8ca4a612afdf68f 311 main/binary-armhf/Packages.gz
+ 70b23f3c8a63916b8be999dbfe810d0b0678241a68a53ec656356444609b5907 73 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEyPJJmiBaNKfNI03q/oxOCe8PC68FAll6gz4ACgkQ/oxOCe8P
+C6/mqQ//d/MP+9WYgCzbKx6VFygFJbUZY1pc8MlS1IqCv79NAe0XeHMGJOlP1OK/
+XVMoAMyyehwVHnVrqBULropvNLul57KgBvNo8JVbzJOhJRkRGHiwcbRQGMIhUSYG
+VnRk62WhHl3+JGqjesC0X3H3ppox2n68UCdTyAfnsp6rWZ4Djninrd4pDWmQ+e8H
+6ZxWKvZwiztV1xbH15qznrtyLGWC4ML01UjKErZC8rIalkmx94eGGF902aD39w7O
+AMgcNejtYtO7oKQ4ulTZxDqyOgSlkWUZB2HrwPGsnAhgMZIRvDT6apeNtHQS43lR
+TAHgXBXYcsO+zArHaJYWE1DIUltU4Po2WZNAZ1yWBy2u1MOAC5GJgf/VNifIo/aD
+8CemsbHHG5GJCIOljtbY3AHu3uI5+ZHloteMyXTvezk4fk9+ayE/mh/M8Xg4xqkE
+SaiIen8o5NYKFwiVg6Q4QPQYUa/GmJGtZv1AJKfvLhTIziqtRMyPSbUDCLbbewdF
+VHE80ETZLuEgfm4I+Y2hgwRzcJa3aMfXb6z58W0zEYOJwtdLvAk77T8nnoWJ7ptf
+udkxOXByktSuS/X85lPJ+rgSjVP6Mzc3nG6XtF5Qxi4sI7mdEBKaKPndd2jf7ZrO
+wdzQG5ZJnwMrSleyHk6xwSIDoD2vGG2yQl+tf2nxU2WpeAnHoHA=
+=1ekJ
+-----END PGP SIGNATURE-----

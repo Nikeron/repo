@@ -1,0 +1,14 @@
+Package: nkern-repo
+Version: 0.1-1
+Architecture: all
+Depends: apt-transport-https
+Maintainer: Nikeron
+Priority: optional
+Section: misc
+Filename: pool/main/n/nkern-repo/nkern-repo_0.1-1_all.deb
+Size: 1976
+SHA256: bfcbe5b288162a359dd7574f26ff7c3a7fa999204884d8e11645995064470c99
+SHA1: eed4f3d9299c7a40a36dd3dc146f0456c04e6c35
+MD5sum: 308f13446b4c8aac71d8b1cc1c1c85d6
+Description: Nikeron package repository.
+
