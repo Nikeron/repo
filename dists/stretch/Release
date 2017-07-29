@@ -1,12 +1,15 @@
 Codename: stretch
-Date: Fri, 28 Jul 2017 00:20:13 UTC
-Architectures: i386 armhf
+Date: Sat, 29 Jul 2017 10:39:24 UTC
+Architectures: i386 amd64 armhf
 Components: main
 Description: Nikeron soft repository
 MD5Sum:
  26de10774b660ecb9708675651147df5 407 main/binary-i386/Packages
  4baed8d2d3bb7f2017ef0538df5c1620 311 main/binary-i386/Packages.gz
  3107bb8525ad3b6cd0b43fca9bb66a3c 72 main/binary-i386/Release
+ 26de10774b660ecb9708675651147df5 407 main/binary-amd64/Packages
+ 4baed8d2d3bb7f2017ef0538df5c1620 311 main/binary-amd64/Packages.gz
+ b7d4d1d7b1ec58e95fca904d4cdfe9bd 73 main/binary-amd64/Release
  26de10774b660ecb9708675651147df5 407 main/binary-armhf/Packages
  4baed8d2d3bb7f2017ef0538df5c1620 311 main/binary-armhf/Packages.gz
  e188363f3eca3d70de8f288472d3b05f 73 main/binary-armhf/Release
@@ -14,6 +17,9 @@ SHA1:
  e062cbdced19e71e5a979ebad96e9ac92e657ef0 407 main/binary-i386/Packages
  51abe499aeff1901293fd62457d4798c8550c2c1 311 main/binary-i386/Packages.gz
  75e2b53696b4b7593fc342183a0d71ab9255220a 72 main/binary-i386/Release
+ e062cbdced19e71e5a979ebad96e9ac92e657ef0 407 main/binary-amd64/Packages
+ 51abe499aeff1901293fd62457d4798c8550c2c1 311 main/binary-amd64/Packages.gz
+ 43de95c435d15956dee6e80939eca3b16aa94435 73 main/binary-amd64/Release
  e062cbdced19e71e5a979ebad96e9ac92e657ef0 407 main/binary-armhf/Packages
  51abe499aeff1901293fd62457d4798c8550c2c1 311 main/binary-armhf/Packages.gz
  f704b5ed3341e4eed8a6126db28886019dcc69e4 73 main/binary-armhf/Release
@@ -21,6 +27,9 @@ SHA256:
  ebac38c19b949f9b639e3505985884c1650cff66f1a18b3a6f30489e5176feb8 407 main/binary-i386/Packages
  287be9e59173b8012bb1b0cdcc92fcaf1a303e0349745ddfb8ca4a612afdf68f 311 main/binary-i386/Packages.gz
  7469cad60287c36e18332f992ff4101891c8f0c757bb401b21e82cd13bf6a99c 72 main/binary-i386/Release
+ ebac38c19b949f9b639e3505985884c1650cff66f1a18b3a6f30489e5176feb8 407 main/binary-amd64/Packages
+ 287be9e59173b8012bb1b0cdcc92fcaf1a303e0349745ddfb8ca4a612afdf68f 311 main/binary-amd64/Packages.gz
+ ac969e8734c4da2a09c78a66bd1a904774bcd736a29ddc45de115db4d370687c 73 main/binary-amd64/Release
  ebac38c19b949f9b639e3505985884c1650cff66f1a18b3a6f30489e5176feb8 407 main/binary-armhf/Packages
  287be9e59173b8012bb1b0cdcc92fcaf1a303e0349745ddfb8ca4a612afdf68f 311 main/binary-armhf/Packages.gz
  70b23f3c8a63916b8be999dbfe810d0b0678241a68a53ec656356444609b5907 73 main/binary-armhf/Release
