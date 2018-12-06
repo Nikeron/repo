@@ -4,6 +4,6 @@
 
 Just execute this:
 ```
-# wget -qO - https://rawgit.com/Nikeron/repo/master/install-repo.sh | bash
+# wget -qO - https://cdn.jsdelivr.net/gh/Nikeron/repo/install-repo.sh | bash
 ```
 Done!
